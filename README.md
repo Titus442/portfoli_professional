@@ -1,249 +1,201 @@
 # portfoli_professional
 
-🚀 FREE PROJECT
+# 🚀 FREE PROJECT
 
-Un projecte interdisciplinari on la programació, l’administració de sistemes, les bases de dades i la creativitat treballen conjuntament dins d’un mateix ecosistema.
+> *Projecte intermodular de DAM enfocat en desenvolupament de software, administració de sistemes, bases de dades i disseny web.*
 
-👨‍💻 1. Anàlisi de competències personals
-🛠️ Competències tècniques
+---
 
-Durant el desenvolupament dels diferents projectes i activitats del curs, he adquirit diverses competències tècniques relacionades amb la programació, l’administració de sistemes i el desenvolupament d’aplicacions.
+# 📌 Sobre el projecte
 
-💻 Llenguatges de programació
-Java
-SQL
-HTML
-CSS
-⚙️ Eines i tecnologies
-Git & GitHub
-Java Swing
-Dolibarr ERP/CRM
-MySQL
-Ubuntu Server
-Windows Server
-🧠 Altres coneixements tècnics
-Creació de bases de dades relacionals i no relacionals
-Desenvolupament de videojocs 2D
-Administració de servidors
-Gestió d’usuaris i permisos
-Triggers i Procedures SQL
-Disseny Responsive
-UML, diagrames de flux i casos d’ús
-🌟 Competències transversals
+FREE PROJECT combina diferents tecnologies i àrees de la informàtica dins d’un entorn pràctic semblant al món laboral real.
 
-A més de les competències tècniques, també he desenvolupat habilitats personals i professionals molt importants per treballar en equip i gestionar projectes.
+## 🎯 Objectius principals
 
-🤝 Treball en equip
-📅 Organització
-🗣️ Comunicació
-🧩 Resolució de problemes
-🎨 Creativitat
-🔄 Adaptabilitat
-⏳ Gestió del temps
-📚 Aprenentatge autònom
-🔥 Exemples reals d’aplicació de competències
-🤝 Treball en equip
+- Desenvolupar un videojoc 2D amb Java Swing
 
-Durant el projecte intermodular he col·laborat amb companys per:
+- Implementar un CRM/ERP veterinari amb Dolibarr
 
-Dividir tasques
-Compartir idees
-Coordinar el desenvolupament de diferents parts del projecte
-🧩 Resolució de problemes
+- Automatitzar processos amb SQL
 
-He solucionat errors relacionats amb:
+- Administrar servidors Linux i Windows
 
-Connexions a bases de dades
-Configuracions de servidors
-Bugs dins del videojoc 2D
-📂 Organització
+- Crear una Landing Page moderna i responsive
 
-He utilitzat GitHub per:
+- Treballar amb control de versions professional
 
-Gestionar versions del projecte
-Mantenir una estructura ordenada
-Coordinar el treball col·laboratiu
-🎨 Creativitat
+---
 
-He participat en:
+# 🛠️ Tecnologies utilitzades
 
-El disseny del videojoc 2D
-La creació de pàgines web modernes
-Decisions d’interfície i experiència d’usuari
-🗣️ Comunicació
+<div align="center">
 
-He explicat idees i funcionalitats del projecte durant:
+| 💻 Programació | ⚙️ Eines | 🖥️ Sistemes |
+|---|---|---|
+| Java | Git | Ubuntu Server |
+| SQL | GitHub | Windows Server |
+| HTML | Swing | |
+| CSS | MySQL | |
+| | Dolibarr ERP/CRM | |
 
-Presentacions
-Reunions
-Exposicions tècniques
-🎯 2. Selecció i anàlisi del projecte intermodular
-📌 Fitxa del projecte
-🏷️ Nom del projecte
-FREE PROJECT
-📖 Descripció del projecte
+</div>
 
-FREE PROJECT és un projecte intermodular que combina diferents àrees del desenvolupament d’aplicacions multiplataforma, l’administració de sistemes i la gestió de bases de dades.
+---
 
-El projecte inclou:
+# 🚧 Àrees del projecte
 
-🎮 Un videojoc 2D desenvolupat amb Java Swing
-🐾 Un sistema CRM/ERP per una clínica veterinària amb Dolibarr
-⚽ Una base de dades Football Manager
-🌐 Una Landing Page moderna amb enfocament Mobile First
+## 🎮 Videojoc 2D
 
-L’objectiu principal és integrar coneixements tècnics i habilitats professionals dins d’un entorn semblant al món laboral real.
+Desenvolupament d’un videojoc amb:
 
-❗ Problemes i necessitats que resol
+- Java Swing
 
-Aquest projecte ajuda a solucionar diferents necessitats:
+- Sistema de puntuacions
 
-🐾 Gestió de clínica veterinària
-Organització de clients i mascotes
-Gestió d’inventari
-Control de vendes i factures
-🎮 Videojoc interactiu
-Sistema de puntuacions
-Gestió d’usuaris
-Mecàniques de joc
-⚽ Automatització de bases de dades
-Automatització amb triggers i procedures
-Millora de la integritat de dades
-👥 Treball col·laboratiu
-Control de versions amb GitHub
-Organització del flux de treball
-🌐 Presència digital professional
-Presentació del producte
-Landing Page responsive
-Identitat corporativa
-🧰 Tecnologies utilitzades
-💻 Programació
-Java
-SQL
-HTML
-CSS
-⚙️ Plataformes i eines
-GitHub
-Git
-Swing
-Dolibarr
-MySQL
-🖥️ Sistemes operatius i servidors
-Ubuntu Server
-Windows Server
-📚 Altres tecnologies
-UML
-Casos d’ús
-Triggers i Procedures
-Responsive Design
-Mobile First
-👨‍🔧 El meu rol dins del projecte
+- Gestió d’usuaris
 
-Dins del projecte he participat en diferents tasques tècniques i organitzatives:
+- Control de teclat i ratolí
 
-🎮 Desenvolupament del videojoc 2D amb Java Swing
-🗄️ Creació i gestió de la base de dades
-🖥️ Configuració de servidors Linux i Windows
-🌿 Implementació de control de versions amb GitHub
-🌐 Participació en el disseny de la Landing Page
-📄 Creació de documentació tècnica
-🧪 Resolució d’errors i proves del sistema
-🚧 3. Desenvolupament dels reptes del projecte
-🐾 Gestió de la clínica veterinària
+- Connexió amb base de dades
 
-S’ha implementat un sistema CRM/ERP amb Dolibarr per ajudar la clínica veterinària a gestionar:
+---
 
-Clients
-Mascotes
-Productes
-Vendes
-✨ Funcionalitats principals
-Organització de la informació
-Gestió d’inventari
-Control de factures
-Millora de l’organització del negoci
-🎮 Desenvolupament del joc 2D
+## 🐾 CRM/ERP Veterinari
 
-S’ha desenvolupat un videojoc 2D utilitzant Java Swing.
+Implementació d’un sistema amb Dolibarr per:
 
-🔥 Característiques principals
-Gestió de teclat i ratolí
-Sistema de puntuacions
-Gestió d’usuaris amb base de dades
-Control de versions amb GitHub
-Disseny de funcionalitats
-🌿 Control de versions
+- Gestionar clients i mascotes
 
-GitHub s’ha utilitzat per:
+- Controlar vendes i factures
 
-Gestionar canvis del projecte
-Crear branques de desenvolupament
-Mantenir un flux de treball ordenat
+- Administrar inventari
 
-Aquesta eina ha estat essencial pel desenvolupament col·laboratiu.
+- Millorar l’organització interna
 
-📊 Anàlisi funcional del sistema
+---
 
-S’han creat diagrames de casos d’ús del Football Manager per representar:
+## ⚽ Football Manager Database
 
-Actors del sistema
-Funcionalitats principals
-Interaccions amb els usuaris
+Sistema orientat a:
 
-Això ha ajudat a entendre millor l’arquitectura de l’aplicació.
+- Automatització amb triggers i procedures
 
-⚙️ Automatització de la base de dades
+- Integritat de dades
 
-S’han desenvolupat:
+- Modelatge relacional
 
-Procedures SQL
-Triggers SQL
-🎯 Objectius
-Automatitzar tasques repetitives
-Garantir la integritat de les dades
-Millorar la consistència del sistema
-🖥️ Administració de servidors
+- Consultes SQL avançades
 
-S’han instal·lat i configurat:
+---
 
-Ubuntu Server
-Windows Server
-🛠️ Tasques realitzades
-Configuració de xarxa
-Gestió d’usuaris i grups
-Assignació de permisos
-Instal·lació de serveis
-Monitoratge del sistema
-📢 Product Sheet i presentació professional
+## 🌐 Landing Page Mobile First
 
-El projecte també inclou:
+Creació d’una web responsive amb:
 
-📄 Una fitxa de producte en anglès
-🎤 Una presentació professional tipus pitch
+- Disseny modern
 
-L’objectiu és presentar el videojoc de forma atractiva i professional.
+- Mobile First
 
-🌐 Landing Page Mobile First
+- Navegació intuïtiva
 
-S’ha desenvolupat una Landing Page responsive amb:
+- Identitat corporativa
 
-Disseny modern
-Adaptació a dispositius mòbils
-Accés directe al videojoc
-Manual d’identitat corporativa
-Navegació intuïtiva
-✅ 4. Conclusions
+- Accés al videojoc
 
-Aquest projecte intermodular m’ha permès aplicar coneixements de diferents mòduls dins d’un entorn pràctic i realista.
+---
 
-He millorat tant:
+## 🖥️ Administració de servidors
 
-🛠️ Competències tècniques
-🌟 Habilitats personals i professionals
+Configuració de:
 
-També he après la importància de:
+- Ubuntu Server
 
-La documentació
-La planificació
-El treball en equip
-La presentació professional de projectes
+- Windows Server
+
+### 🔧 Tasques realitzades
+
+- Xarxa
+
+- Usuaris i permisos
+
+- Instal·lació de serveis
+
+- Monitoratge del sistema
+
+---
+
+# 👨‍💻 Competències desenvolupades
+
+## 🛠️ Tècniques
+
+- Desenvolupament multiplataforma
+
+- Bases de dades SQL
+
+- Responsive Design
+
+- UML i casos d’ús
+
+- Git & GitHub
+
+- Administració de sistemes
+
+## 🌟 Transversals
+
+- 🤝 Treball en equip
+
+- 🧩 Resolució de problemes
+
+- 📅 Organització
+
+- 🎨 Creativitat
+
+- 🗣️ Comunicació
+
+- 📚 Aprenentatge autònom
+
+---
+
+# 📂 El meu rol
+
+Durant el projecte he participat en:
+
+- 🎮 Desenvolupament del joc
+
+- 🗄️ Gestió de bases de dades
+
+- 🌐 Disseny web
+
+- 🖥️ Configuració de servidors
+
+- 🌿 Control de versions
+
+- 📄 Documentació tècnica
+
+- 🧪 Testing i debugging
+
+---
+
+# 📈 Resultats obtinguts
+
+✅ Integració de múltiples tecnologies  
+
+✅ Millora de competències tècniques i professionals  
+
+✅ Simulació d’un entorn laboral real  
+
+✅ Desenvolupament d’un projecte complet i funcional  
+
+---
+
+# 📌 Conclusions
+
+Aquest projecte m’ha permès aplicar coneixements de diferents mòduls en un únic ecosistema tecnològic, millorant tant les habilitats tècniques com les competències professionals.
+
+---
+
+<div align="center">
+
+## ⭐ Gràcies per visitar el repositori ⭐
+
+</div>
